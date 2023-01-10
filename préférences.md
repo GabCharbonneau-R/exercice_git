@@ -1,5 +1,6 @@
 # exercice_fav_food
 samuel tremblay la bouffe que quelqu'un d'autre me fait
+gab aime les pandoro
 ## best_breakfast
 2 tournes bacon
 ## comfort_food
