@@ -1,9 +1,10 @@
 # exercice_fav_food
-samuel tremblay la bouffe que quelqu'un d'autre me fait
-gab aime les pandoro
+
+
 ## best_breakfast
-2 tournes bacon
+Gab C aime les pandoro
 ## comfort_food
-2 tournes bacon
+samuel tremblay la bouffe que quelqu'un d'autre me fait  
+Gab C aime la lasagne    
 ## favorite_dessert
-2 tournes bacon
+Gab C aime les macarons Francais ou Italiens  
