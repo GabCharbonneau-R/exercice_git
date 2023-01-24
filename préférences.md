@@ -13,6 +13,9 @@ Gab C aime la poutine du mc-do :(
 Jackie aime les pâtes à la Gigi 
 Gab R aime la pizza (SANS ANANAS)  
 Ben: Tapes sua-yeule épicées
+Gab C aime la poutine du mc-do :(  
+Gab R aime la pizza (SANS ANANAS) <br/>
+Ben: Tapes sua-yeule épicées <br/>
 ## favorite_dessert
 Samuel Tremblay aime les ptits rats mitsou  
 Gab C aime les macarons Francais ou Italiens  
