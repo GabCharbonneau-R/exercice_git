@@ -9,7 +9,8 @@ Gab R aime les crêpes aux fruits avec du chocolat
 Ben: Tapes sua-yeule/Café.  
 Jeremie: bacon  
 jv: bacon  
-Davio: J'aime... manger  
+Davio: J'aime... manger
+Mange pas
 ## comfort_food
 Samuel Tremblay la bouffe que quelqu'un d'autre me fait  
 Gab C aime la poutine du mc-do :(    
@@ -22,6 +23,7 @@ Ben: Tapes sua-yeule épicées <br/>
 Jeremie: pizza  
 jv: blabla  
 Davio: J'aime... manger  
+mange pas
 ## favorite_dessert
 Samuel Tremblay aime les ptits rats mitsou  
 Gab C aime les macarons Francais ou Italiens  
@@ -30,4 +32,5 @@ Gab R aime pas mal tous les trucs sucrés
 Ben: Tape sua yeule au sirop d'érable.  
 Jeremie: gateau  
 jv: cheesecake  
-Davio: J'aime... manger  
+Davio: J'aime... manger 
+mange pas
