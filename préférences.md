@@ -10,7 +10,7 @@ Ben: Tapes sua-yeule/Café.
 Samuel Tremblay la bouffe que quelqu'un d'autre me fait  
 Gab C aime la poutine du mc-do :(  
 Gab R aime la pizza (SANS ANANAS)
-Ben: Tapes sua-yeule épicées.
+Ben: Tapes sua-yeule épicées
 ## favorite_dessert
 Samuel Tremblay aime les ptits rats mitsou  
 Gab C aime les macarons Francais ou Italiens
